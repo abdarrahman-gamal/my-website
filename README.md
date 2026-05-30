@@ -20,4 +20,4 @@ Clone repository and open index.html
 
 ## Author
 
-Abdo.
+Abdo
